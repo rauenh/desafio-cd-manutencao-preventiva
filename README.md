@@ -1,5 +1,6 @@
 # desafio-cd-manutencao-preventiva
-Desafio Lighthouse
+Desafio da Indicium para o Programa Lighthouse. Como parte do processo seletivo, escolhi realizar o desafio "Cientista de Dados - Manutenção preventiva".
+
 
 
 
