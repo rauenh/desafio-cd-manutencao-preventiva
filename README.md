@@ -8,7 +8,7 @@ Desafio da Indicium para o Programa Lighthouse. Como parte do processo seletivo,
 
 Passo 1: Clonar repositório
 
-Passo 2: Instalar o anaconda ou miniconda (procurar o link)
+Passo 2: Instalar o anaconda (https://www.anaconda.com/products/distribution) ou miniconda (https://docs.conda.io/en/latest/miniconda.html)
 
 Passo 3: Criar o ambiente: conda create --name <nome_do_ambiente>
 
